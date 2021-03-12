@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeaturedImage",
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Generate 24/7 web-readiness",
+          "spans": []
+        }
+      ],
+      "headline": [
+        {
+          "type": "heading3",
+          "text": "Reinvent efficient convergence",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "linkLabel": "streamline dynamic ROI",
+      "featuredImage": {
+        "dimensions": {
+          "width": 727,
+          "height": 402
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?w=727&h=402&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "featured_image"
+  }
+]

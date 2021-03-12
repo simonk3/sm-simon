@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "HomeSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Est ea aliquip magna tempor labore reprehenderit dolor consequat eu aliqua sunt ipsum dolor minim labore. Elit velit sint veniam deserunt sit consectetur commodo duis eu aliquip qui mollit. Mollit pariatur irure elit incididunt adipisicing reprehenderit.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ipsum irure voluptate consequat magna Lorem duis. Amet commodo occaecat irure ea velit sint nulla consequat irure ex ea veniam.",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "linkLabel": "exploit open-source experiences",
+      "background": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "home_slice"
+  }
+]

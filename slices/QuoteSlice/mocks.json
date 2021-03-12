@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "QuoteSlice",
+    "primary": {
+      "quotetext": [
+        {
+          "type": "paragraph",
+          "text": "Mollit in tempor occaecat labore commodo ad voluptate.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "quote_slice"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TextSlice",
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Reprehenderit id cillum velit qui. Tempor fugiat est deserunt et sunt cupidatat quis cillum do officia. Magna elit et cupidatat laborum.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Ullamco cillum qui sit laborum sit amet ullamco duis. Consequat deserunt quis dolor ullamco nulla aliqua nulla reprehenderit sit proident consectetur.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Eiusmod sunt consequat proident reprehenderit enim cillum laboris culpa. Minim commodo mollit elit dolore et cupidatat elit do amet amet. Aliquip ex quis culpa nostrud proident.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "text_slice"
+  }
+]

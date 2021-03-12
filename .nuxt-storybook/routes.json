@@ -1,0 +1,28 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/simonk/my-new-nuxt-app/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_327f0d90"
+  },
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/simonk/my-new-nuxt-app/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_327f0d90"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/simonk/my-new-nuxt-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2038f84a"
+  },
+  {
+    "name": "uid",
+    "path": "/:uid",
+    "component": "/Users/simonk/my-new-nuxt-app/pages/_uid.vue",
+    "chunkName": "pages/_uid",
+    "_name": "_e746bbd0"
+  }
+]

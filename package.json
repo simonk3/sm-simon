@@ -1,0 +1,31 @@
+{
+  "name": "simon-kush-sm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "slicemachine": "start-slicemachine --port 9999",
+    "storybook": "nuxt storybook",
+    "build-storybook": "nuxt storybook build"
+  },
+  "dependencies": {
+    "@nuxtjs/prismic": "^1.2.6",
+    "@prismicio/vue": "^2.0.9",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "nuxt-sm": "^0.0.6",
+    "prismic-javascript": "^3.0.2",
+    "vue-essential-slices": "^0.3.0",
+    "vue-slicezone": "^0.0.30"
+  },
+  "devDependencies": {
+    "@nuxtjs/storybook": "^3.3.1",
+    "babel-loader": "^8.2.2",
+    "sass": "^1.32.7",
+    "sass-loader": "^10.1.1",
+    "slice-machine-ui": "^0.0.44"
+  }
+}

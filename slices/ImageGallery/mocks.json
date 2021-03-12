@@ -1,0 +1,113 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageGallery",
+    "primary": {
+      "galleryTitle": [
+        {
+          "type": "heading2",
+          "text": "Visualize robust channels",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 727,
+            "height": 402
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=727&h=402&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Velit aliqua qui nostrud aute proident dolor reprehenderit cillum velit dolor cillum consectetur.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "linkLabel": "deliver extensible infrastructures"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 727,
+            "height": 402
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=727&h=402&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Quis aute est et eiusmod nulla deserunt nisi et pariatur minim proident sint aliqua enim.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "linkLabel": "iterate ubiquitous partnerships"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 727,
+            "height": 402
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72?w=727&h=402&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Consequat sunt dolor enim aliquip ex amet dolore dolor dolore nostrud. Id ex est elit do id occaecat non excepteur quis cupidatat laboris id. Proident tempor minim eiusmod laboris nulla et elit aliqua veniam cillum eiusmod tempor minim et qui.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "linkLabel": "repurpose real-time metrics"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 727,
+            "height": 402
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?w=727&h=402&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Consectetur in cillum velit velit deserunt occaecat esse. Excepteur excepteur nisi laborum et id laborum. Duis proident quis consequat in fugiat.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "linkLabel": "evolve rich deliverables"
+      }
+    ],
+    "slice_type": "image_gallery"
+  }
+]
